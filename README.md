@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MinecraftServer.Net
 A complete rewrite of the Java edition's Minecraft server on C#, notably with support for multithreading
 
@@ -9,3 +10,6 @@ One of the aims of this project is to be a black box that acts exactly as the Ja
 
 ## Contribute
 This project aint gonna write itself, so any kind of contributions are welcome. Even reccomending new features or reporting bugs is a great way to help me, but even better so - to take your first issue / feature request and make a pull request.
+=======
+# MinecraftServer.net
+>>>>>>> ad4ee63876929a50beaa006a6abe9b1bb4978242

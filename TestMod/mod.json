@@ -1,0 +1,12 @@
+﻿{
+  "Name": "test",
+  "Version": "0.0.1",
+  "Authors": [ "TopchetoEU" ],
+  "Description": "A mod to test the loading and unloading of mods.",
+  "EntryPoints": {
+    "Main": "TestMod.TestMod"
+  },
+  "Dependencies": [
+    "root"
+  ]
+}

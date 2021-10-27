@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>NiceInc.MinecraftNet.Entities</AssemblyName>
+    <RootNamespace>NiceInc.MinecraftNet.Entities</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Minecraft.net\NiceInc.UnitsNet\NiceInc.UnitsNet.csproj" />
+  </ItemGroup>
+
+</Project>
